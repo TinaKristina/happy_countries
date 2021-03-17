@@ -1,2 +1,2 @@
 # happy_countries
-Random Forest, Desicion Tree classifiers
+Algoritmi: Random Forest, Desicion Tree classifiers & SVM 
